@@ -5,13 +5,13 @@ const pizzaCard = (pizza) => {
     <div class="col-md-4 px-1 px-md-3 mb-3 h-100">
         <div class="pizza-card card border-0 h-100">
             <div class="image-holder">
-                <img src="./images/pizza3.png" class="card-img-top" alt="home pizza">
+                <img src="./images/chickenpizza.jpg" class="card-img-top" alt="home pizza">
             </div>
             <div class="card-body">
                 <h6>${pizza.name}</h6>
                 <p>Crust: ${pizza.crust.name}</p>
                 <p>ksh <strong>${pizza.calculatePrice()}</strong> </p>
-                <button class="btn btn-primary btn-sm shadow-none" onclick="return addToCart('${pizza.name}')">Add to cart</button>
+        
             </div>
         </div>
     </div>
