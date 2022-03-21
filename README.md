@@ -1,6 +1,5 @@
 ## James Musembi
 ## PIZZA APP
-  'http://127.0.0.1:5500/index.html#home'
 ## Description
    Welcome to Pizza APP. What do you need? We'll find it for you and deliver it in a few minutes. Order from the comfort of your home and our APP will bring it to your doorstep.
 ## Technologies Used
@@ -22,6 +21,7 @@
   
    
 ## Link To Live Site
+   'https://jamesmusembi.github.io/PIZZA/'
 ## License
    *MIT LICENSE*
     copyright (c) 2022 James Musembi
