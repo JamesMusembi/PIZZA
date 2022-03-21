@@ -11,7 +11,7 @@
 ## Setup instructions and Installation
   Open your terminal (ctrl+alt+T).
   Initialize git on your terminal.
-  git clone
+  git clone 'https://github.com/JamesMusembi/PIZZA.git'
   open the 'Pizza' folder.
   Open the file named index.html on your preferred browser
   Enter your pizza of choice into the input boxes.
